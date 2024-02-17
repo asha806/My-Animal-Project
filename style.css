@@ -1,0 +1,26 @@
+body {
+    background:lightgray;
+    font-family:cursive;
+}
+
+.header_div {
+    background-color:darkgrey;
+    font-family:cursive;
+    top:0;
+}
+
+.header_div p{
+    font-size: 12px;
+    letter-spacing:2px;
+}
+
+.copy_right_footer{
+    bottom:0;
+    position:fixed;
+    width:100%;
+    text-align:center;
+    text-shadow:5px 5px 5px gray;
+    background-color: whitesmoke;
+    color:gray;
+    line-height:3;
+}
